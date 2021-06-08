@@ -4,5 +4,5 @@ React Apps portfolio
 
 Wordpress / Woocommerce portfolio
 
-<a href="https://gsmbox.ro/" target="_blank">gsmbox.ro</a></br>
+<a href="https://gsmbox.ro/" target="_blank">gsmbox.ro</a>\
 <a href="https://dulciuricusuflet.ro/" target="_blank">dulciuricusuflet.ro</a>
