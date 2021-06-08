@@ -4,5 +4,5 @@ https://youtube-videos-bogdanlucuta.vercel.app/
 
 Wordpress / Woocommerce portfolio
 
-https://gsmbox.ro/
+<a href="https://gsmbox.ro/">gsmbox.ro</a>
 https://dulciuricusuflet.ro/
